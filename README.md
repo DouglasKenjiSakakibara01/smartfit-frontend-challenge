@@ -1,1 +1,0 @@
-# smartfit-frontend-challenge
