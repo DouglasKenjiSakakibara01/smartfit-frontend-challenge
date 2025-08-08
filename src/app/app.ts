@@ -7,11 +7,13 @@ import { CardsList } from "./components/cards-list/cards-list";
 import { GetUnits } from './services/get-units';
 import { Location } from './types/location.interface';
 import { AsyncPipe, CommonModule } from '@angular/common';
+import { Legend } from './components/legend/legend';
+import { Footer } from './components/footer/footer';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, Header, Forms, CardsList, AsyncPipe, CommonModule],
+  imports: [RouterOutlet, Header, Forms, CardsList, AsyncPipe, CommonModule, Legend, Footer],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
