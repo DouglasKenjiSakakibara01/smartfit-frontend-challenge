@@ -1,6 +1,6 @@
 # DesafioSmartfit
 
-Desafio de front-end da Smart Fit. O desafio foi feito utilizado o Angular na versão 20.1.4.
+Desafio de [front-end da Smart Fit](https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master). O desafio foi feito utilizado o Angular na versão 20.1.4.
 
 ## Sobre o desafio 
 O desafio está relacionado ao contexto de mudanças no período da pandemia,  onde existe uma necessidade de desenvolver uma página para buscar unidades abertas ou fechadas para consulta e reserva.
@@ -8,7 +8,7 @@ O desafio está relacionado ao contexto de mudanças no período da pandemia,  o
 Neste desafio, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
 
 Funcionalidades
-Carrega unidades através do arquivo JSON locations.json utilizando o método GET. 
+Carrega unidades através do arquivo JSON [locations.json](https://test-frontend-developer.s3.amazonaws.com/data/locations.json) utilizando o método GET. 
 - Busca por todas as unidades.
 - Busca por unidades com filtros.
 - Previsão do número de resultados encontrados.
